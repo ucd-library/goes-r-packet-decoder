@@ -16,18 +16,25 @@ async function run() {
     lastSpacePacket = packet.parse(index, content, lastSpacePacket);
     
     index += CONSTANTS.CADU.PACKET_LENGTH*2;
-    if( packets.length === 3 ) break;
   }
 
-  packets.forEach(packet => {
-    console.log(packet.mpduPacket.packet.HEADER_PARSED)
-    packet.mpduPacket.spacePackets.forEach(sp => {
-      sp.DATA_LENGTH = sp.packet.DATA.length / 2;
-      delete sp.packet.DATA;
-      console.log(sp);
-      console.log('');
+  packets.forEach((packet, i) => {
+    packet.mpduPacket.spacePackets.forEach((sp, j) => {
+      if( sp.packet.PRIMARY_HEADER_PARSED.APPLICATION_PROCESS_IDENTIFIER === 1108 ) return;
+
+      // sp.DATA_LENGTH = sp.packet.DATA.length / 2;
+      // delete sp.packet.DATA;
+      console.log(
+        sp.packet.PRIMARY_HEADER_PARSED.APPLICATION_PROCESS_IDENTIFIER,
+        sp.packet.PRIMARY_HEADER_PARSED.SEQUENCE_FLAGS,
+        sp.packet.PRIMARY_HEADER_PARSED.PACKET_SEQUENCE_COUNT
+      );
+      if( sp.packet.PRIMARY_HEADER_PARSED.SEQUENCE_FLAGS === 1 ) {
+        console.log(sp.imagePayload.HEADER);
+      }
+      // if( sp.imagePayload ) console.log(sp.imagePayload.HEADER);
+      // console.log('-------------');
     });
-    console.log('--------------');
   });
   console.log(packets.length);
 }
