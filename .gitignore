@@ -1,2 +1,4 @@
 node_modules
 *.dat
+images
+.DS_Store
