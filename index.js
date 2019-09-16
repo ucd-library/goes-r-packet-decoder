@@ -14,10 +14,17 @@ async function run() {
   await fs.mkdirp(finalDir);
   
   let content = await fs.readFile('subgrabpackets.dat');
+
+  let indexBuf = content.indexOf(CONSTANTS.CADU.SYNC, 0, 'hex');
+
   content = content.toString('hex');
 
   
   let index = content.indexOf(CONSTANTS.CADU.SYNC.toLowerCase());
+
+  console.log(index, indexBuf);
+  return;
+
   let packets = [];
   let lastSpacePacket = null;
 
