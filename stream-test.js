@@ -1,6 +1,5 @@
 const processor = require('./lib/binary-stream-processor');
-processor();
+// processor();
 
-// const fs = require('fs');
-
-// processor(fs.createReadStream('subgrabpackets.dat'));
+const fs = require('fs');
+processor(fs.createReadStream('subgrabpackets.dat'));
