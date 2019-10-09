@@ -2,3 +2,5 @@ node_modules
 *.dat
 images
 .DS_Store
+*.csv
+*.csv.gz
