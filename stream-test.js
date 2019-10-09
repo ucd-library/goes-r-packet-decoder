@@ -3,4 +3,4 @@ const processor = require('./lib/binary-stream-processor');
 
 const fs = require('fs');
 // processor(fs.createReadStream('subgrabpackets.dat'));
-processor(fs.createReadStream('7am_g.dat'));
+processor(fs.createReadStream('8am_g.dat'));
