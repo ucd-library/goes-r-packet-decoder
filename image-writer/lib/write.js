@@ -12,7 +12,7 @@ function _exec(cmd, args={}) {
 }
 
 
-module.exports = async (partsDir, finalDir, time, block) => {
+module.exports = async (images) => {
   let images = await fs.readdir(partsDir);
   images.sort((a,b) => {
     a = parseInt(a.split('_')[1].split('.')[0]);
