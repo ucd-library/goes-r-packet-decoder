@@ -1,0 +1,1597 @@
+{
+  "FULL_DISK_METADATA_MODE_6_BAND_1": {
+    "apid": "80",
+    "label": "Full Disk Metadata (Mode 6)",
+    "band": "1"
+  },
+  "FULL_DISK_METADATA_MODE_6_BAND_2": {
+    "apid": "81",
+    "label": "Full Disk Metadata (Mode 6)",
+    "band": "2"
+  },
+  "FULL_DISK_METADATA_MODE_6_BAND_3": {
+    "apid": "82",
+    "label": "Full Disk Metadata (Mode 6)",
+    "band": "3"
+  },
+  "FULL_DISK_METADATA_MODE_6_BAND_4": {
+    "apid": "83",
+    "label": "Full Disk Metadata (Mode 6)",
+    "band": "4"
+  },
+  "FULL_DISK_METADATA_MODE_6_BAND_5": {
+    "apid": "84",
+    "label": "Full Disk Metadata (Mode 6)",
+    "band": "5"
+  },
+  "FULL_DISK_METADATA_MODE_6_BAND_6": {
+    "apid": "85",
+    "label": "Full Disk Metadata (Mode 6)",
+    "band": "6"
+  },
+  "FULL_DISK_METADATA_MODE_6_BAND_7": {
+    "apid": "86",
+    "label": "Full Disk Metadata (Mode 6)",
+    "band": "7"
+  },
+  "FULL_DISK_METADATA_MODE_6_BAND_8": {
+    "apid": "87",
+    "label": "Full Disk Metadata (Mode 6)",
+    "band": "8"
+  },
+  "FULL_DISK_METADATA_MODE_6_BAND_9": {
+    "apid": "88",
+    "label": "Full Disk Metadata (Mode 6)",
+    "band": "9"
+  },
+  "FULL_DISK_METADATA_MODE_6_BAND_10": {
+    "apid": "89",
+    "label": "Full Disk Metadata (Mode 6)",
+    "band": "10"
+  },
+  "FULL_DISK_METADATA_MODE_6_BAND_11": {
+    "apid": "8A",
+    "label": "Full Disk Metadata (Mode 6)",
+    "band": "11"
+  },
+  "FULL_DISK_METADATA_MODE_6_BAND_12": {
+    "apid": "8B",
+    "label": "Full Disk Metadata (Mode 6)",
+    "band": "12"
+  },
+  "FULL_DISK_METADATA_MODE_6_BAND_13": {
+    "apid": "8C",
+    "label": "Full Disk Metadata (Mode 6)",
+    "band": "13"
+  },
+  "FULL_DISK_METADATA_MODE_6_BAND_14": {
+    "apid": "8D",
+    "label": "Full Disk Metadata (Mode 6)",
+    "band": "14"
+  },
+  "FULL_DISK_METADATA_MODE_6_BAND_15": {
+    "apid": "8E",
+    "label": "Full Disk Metadata (Mode 6)",
+    "band": "15"
+  },
+  "FULL_DISK_METADATA_MODE_6_BAND_16": {
+    "apid": "8F",
+    "label": "Full Disk Metadata (Mode 6)",
+    "band": "16"
+  },
+  "FULL_DISK_RADIANCE_IMAGE_DATA_MODE_6_BAND_1": {
+    "apid": "90",
+    "label": "Full Disk Radiance Image Data (Mode 6)",
+    "band": "1"
+  },
+  "FULL_DISK_RADIANCE_IMAGE_DATA_MODE_6_BAND_2": {
+    "apid": "91",
+    "label": "Full Disk Radiance Image Data (Mode 6)",
+    "band": "2"
+  },
+  "FULL_DISK_RADIANCE_IMAGE_DATA_MODE_6_BAND_3": {
+    "apid": "92",
+    "label": "Full Disk Radiance Image Data (Mode 6)",
+    "band": "3"
+  },
+  "FULL_DISK_RADIANCE_IMAGE_DATA_MODE_6_BAND_4": {
+    "apid": "93",
+    "label": "Full Disk Radiance Image Data (Mode 6)",
+    "band": "4"
+  },
+  "FULL_DISK_RADIANCE_IMAGE_DATA_MODE_6_BAND_5": {
+    "apid": "94",
+    "label": "Full Disk Radiance Image Data (Mode 6)",
+    "band": "5"
+  },
+  "FULL_DISK_RADIANCE_IMAGE_DATA_MODE_6_BAND_6": {
+    "apid": "95",
+    "label": "Full Disk Radiance Image Data (Mode 6)",
+    "band": "6"
+  },
+  "FULL_DISK_RADIANCE_IMAGE_DATA_MODE_6_BAND_7": {
+    "apid": "96",
+    "label": "Full Disk Radiance Image Data (Mode 6)",
+    "band": "7"
+  },
+  "FULL_DISK_RADIANCE_IMAGE_DATA_MODE_6_BAND_8": {
+    "apid": "97",
+    "label": "Full Disk Radiance Image Data (Mode 6)",
+    "band": "8"
+  },
+  "FULL_DISK_RADIANCE_IMAGE_DATA_MODE_6_BAND_9": {
+    "apid": "98",
+    "label": "Full Disk Radiance Image Data (Mode 6)",
+    "band": "9"
+  },
+  "FULL_DISK_RADIANCE_IMAGE_DATA_MODE_6_BAND_10": {
+    "apid": "99",
+    "label": "Full Disk Radiance Image Data (Mode 6)",
+    "band": "10"
+  },
+  "FULL_DISK_RADIANCE_IMAGE_DATA_MODE_6_BAND_11": {
+    "apid": "9A",
+    "label": "Full Disk Radiance Image Data (Mode 6)",
+    "band": "11"
+  },
+  "FULL_DISK_RADIANCE_IMAGE_DATA_MODE_6_BAND_12": {
+    "apid": "9B",
+    "label": "Full Disk Radiance Image Data (Mode 6)",
+    "band": "12"
+  },
+  "FULL_DISK_RADIANCE_IMAGE_DATA_MODE_6_BAND_13": {
+    "apid": "9C",
+    "label": "Full Disk Radiance Image Data (Mode 6)",
+    "band": "13"
+  },
+  "FULL_DISK_RADIANCE_IMAGE_DATA_MODE_6_BAND_14": {
+    "apid": "9D",
+    "label": "Full Disk Radiance Image Data (Mode 6)",
+    "band": "14"
+  },
+  "FULL_DISK_RADIANCE_IMAGE_DATA_MODE_6_BAND_15": {
+    "apid": "9E",
+    "label": "Full Disk Radiance Image Data (Mode 6)",
+    "band": "15"
+  },
+  "FULL_DISK_RADIANCE_IMAGE_DATA_MODE_6_BAND_16": {
+    "apid": "9F",
+    "label": "Full Disk Radiance Image Data (Mode 6)",
+    "band": "16"
+  },
+  "CONTINENTAL_UNITED_STATES_METADATA_MODE_6_BAND_1": {
+    "apid": "A0",
+    "label": "Continental United States Metadata (Mode 6)",
+    "band": "1"
+  },
+  "CONTINENTAL_UNITED_STATES_METADATA_MODE_6_BAND_2": {
+    "apid": "A1",
+    "label": "Continental United States Metadata (Mode 6)",
+    "band": "2"
+  },
+  "CONTINENTAL_UNITED_STATES_METADATA_MODE_6_BAND_3": {
+    "apid": "A2",
+    "label": "Continental United States Metadata (Mode 6)",
+    "band": "3"
+  },
+  "CONTINENTAL_UNITED_STATES_METADATA_MODE_6_BAND_4": {
+    "apid": "A3",
+    "label": "Continental United States Metadata (Mode 6)",
+    "band": "4"
+  },
+  "CONTINENTAL_UNITED_STATES_METADATA_MODE_6_BAND_5": {
+    "apid": "A4",
+    "label": "Continental United States Metadata (Mode 6)",
+    "band": "5"
+  },
+  "CONTINENTAL_UNITED_STATES_METADATA_MODE_6_BAND_6": {
+    "apid": "A5",
+    "label": "Continental United States Metadata (Mode 6)",
+    "band": "6"
+  },
+  "CONTINENTAL_UNITED_STATES_METADATA_MODE_6_BAND_7": {
+    "apid": "A6",
+    "label": "Continental United States Metadata (Mode 6)",
+    "band": "7"
+  },
+  "CONTINENTAL_UNITED_STATES_METADATA_MODE_6_BAND_8": {
+    "apid": "A7",
+    "label": "Continental United States Metadata (Mode 6)",
+    "band": "8"
+  },
+  "CONTINENTAL_UNITED_STATES_METADATA_MODE_6_BAND_9": {
+    "apid": "A8",
+    "label": "Continental United States Metadata (Mode 6)",
+    "band": "9"
+  },
+  "CONTINENTAL_UNITED_STATES_METADATA_MODE_6_BAND_10": {
+    "apid": "A9",
+    "label": "Continental United States Metadata (Mode 6)",
+    "band": "10"
+  },
+  "CONTINENTAL_UNITED_STATES_METADATA_MODE_6_BAND_11": {
+    "apid": "AA",
+    "label": "Continental United States Metadata (Mode 6)",
+    "band": "11"
+  },
+  "CONTINENTAL_UNITED_STATES_METADATA_MODE_6_BAND_12": {
+    "apid": "AB",
+    "label": "Continental United States Metadata (Mode 6)",
+    "band": "12"
+  },
+  "CONTINENTAL_UNITED_STATES_METADATA_MODE_6_BAND_13": {
+    "apid": "AC",
+    "label": "Continental United States Metadata (Mode 6)",
+    "band": "13"
+  },
+  "CONTINENTAL_UNITED_STATES_METADATA_MODE_6_BAND_14": {
+    "apid": "AD",
+    "label": "Continental United States Metadata (Mode 6)",
+    "band": "14"
+  },
+  "CONTINENTAL_UNITED_STATES_METADATA_MODE_6_BAND_15": {
+    "apid": "AE",
+    "label": "Continental United States Metadata (Mode 6)",
+    "band": "15"
+  },
+  "CONTINENTAL_UNITED_STATES_METADATA_MODE_6_BAND_16": {
+    "apid": "AF",
+    "label": "Continental United States Metadata (Mode 6)",
+    "band": "16"
+  },
+  "CONTINENTAL_UNITED_STATES_RADIANCE_IMAGE_MODE_6_BAND_1": {
+    "apid": "B0",
+    "label": "Continental United States Radiance Image (Mode 6)",
+    "band": "1"
+  },
+  "CONTINENTAL_UNITED_STATES_RADIANCE_IMAGE_MODE_6_BAND_2": {
+    "apid": "B1",
+    "label": "Continental United States Radiance Image (Mode 6)",
+    "band": "2"
+  },
+  "CONTINENTAL_UNITED_STATES_RADIANCE_IMAGE_MODE_6_BAND_3": {
+    "apid": "B2",
+    "label": "Continental United States Radiance Image (Mode 6)",
+    "band": "3"
+  },
+  "CONTINENTAL_UNITED_STATES_RADIANCE_IMAGE_MODE_6_BAND_4": {
+    "apid": "B3",
+    "label": "Continental United States Radiance Image (Mode 6)",
+    "band": "4"
+  },
+  "CONTINENTAL_UNITED_STATES_RADIANCE_IMAGE_MODE_6_BAND_5": {
+    "apid": "B4",
+    "label": "Continental United States Radiance Image (Mode 6)",
+    "band": "5"
+  },
+  "CONTINENTAL_UNITED_STATES_RADIANCE_IMAGE_MODE_6_BAND_6": {
+    "apid": "B5",
+    "label": "Continental United States Radiance Image (Mode 6)",
+    "band": "6"
+  },
+  "CONTINENTAL_UNITED_STATES_RADIANCE_IMAGE_MODE_6_BAND_7": {
+    "apid": "B6",
+    "label": "Continental United States Radiance Image (Mode 6)",
+    "band": "7"
+  },
+  "CONTINENTAL_UNITED_STATES_RADIANCE_IMAGE_MODE_6_BAND_8": {
+    "apid": "B7",
+    "label": "Continental United States Radiance Image (Mode 6)",
+    "band": "8"
+  },
+  "CONTINENTAL_UNITED_STATES_RADIANCE_IMAGE_MODE_6_BAND_9": {
+    "apid": "B8",
+    "label": "Continental United States Radiance Image (Mode 6)",
+    "band": "9"
+  },
+  "CONTINENTAL_UNITED_STATES_RADIANCE_IMAGE_MODE_6_BAND_10": {
+    "apid": "B9",
+    "label": "Continental United States Radiance Image (Mode 6)",
+    "band": "10"
+  },
+  "CONTINENTAL_UNITED_STATES_RADIANCE_IMAGE_MODE_6_BAND_11": {
+    "apid": "BA",
+    "label": "Continental United States Radiance Image (Mode 6)",
+    "band": "11"
+  },
+  "CONTINENTAL_UNITED_STATES_RADIANCE_IMAGE_MODE_6_BAND_12": {
+    "apid": "BB",
+    "label": "Continental United States Radiance Image (Mode 6)",
+    "band": "12"
+  },
+  "CONTINENTAL_UNITED_STATES_RADIANCE_IMAGE_MODE_6_BAND_13": {
+    "apid": "BC",
+    "label": "Continental United States Radiance Image (Mode 6)",
+    "band": "13"
+  },
+  "CONTINENTAL_UNITED_STATES_RADIANCE_IMAGE_MODE_6_BAND_14": {
+    "apid": "BD",
+    "label": "Continental United States Radiance Image (Mode 6)",
+    "band": "14"
+  },
+  "CONTINENTAL_UNITED_STATES_RADIANCE_IMAGE_MODE_6_BAND_15": {
+    "apid": "BE",
+    "label": "Continental United States Radiance Image (Mode 6)",
+    "band": "15"
+  },
+  "CONTINENTAL_UNITED_STATES_RADIANCE_IMAGE_MODE_6_BAND_16": {
+    "apid": "BF",
+    "label": "Continental United States Radiance Image (Mode 6)",
+    "band": "16"
+  },
+  "MESOSCALE_1_METADATA_MODE_6_BAND_1": {
+    "apid": "C0",
+    "label": "Mesoscale #1 Metadata (Mode 6)",
+    "band": "1"
+  },
+  "MESOSCALE_1_METADATA_MODE_6_BAND_2": {
+    "apid": "C1",
+    "label": "Mesoscale #1 Metadata (Mode 6)",
+    "band": "2"
+  },
+  "MESOSCALE_1_METADATA_MODE_6_BAND_3": {
+    "apid": "C2",
+    "label": "Mesoscale #1 Metadata (Mode 6)",
+    "band": "3"
+  },
+  "MESOSCALE_1_METADATA_MODE_6_BAND_4": {
+    "apid": "C3",
+    "label": "Mesoscale #1 Metadata (Mode 6)",
+    "band": "4"
+  },
+  "MESOSCALE_1_METADATA_MODE_6_BAND_5": {
+    "apid": "C4",
+    "label": "Mesoscale #1 Metadata (Mode 6)",
+    "band": "5"
+  },
+  "MESOSCALE_1_METADATA_MODE_6_BAND_6": {
+    "apid": "C5",
+    "label": "Mesoscale #1 Metadata (Mode 6)",
+    "band": "6"
+  },
+  "MESOSCALE_1_METADATA_MODE_6_BAND_7": {
+    "apid": "C6",
+    "label": "Mesoscale #1 Metadata (Mode 6)",
+    "band": "7"
+  },
+  "MESOSCALE_1_METADATA_MODE_6_BAND_8": {
+    "apid": "C7",
+    "label": "Mesoscale #1 Metadata (Mode 6)",
+    "band": "8"
+  },
+  "MESOSCALE_1_METADATA_MODE_6_BAND_9": {
+    "apid": "C8",
+    "label": "Mesoscale #1 Metadata (Mode 6)",
+    "band": "9"
+  },
+  "MESOSCALE_1_METADATA_MODE_6_BAND_10": {
+    "apid": "C9",
+    "label": "Mesoscale #1 Metadata (Mode 6)",
+    "band": "10"
+  },
+  "MESOSCALE_1_METADATA_MODE_6_BAND_11": {
+    "apid": "CA",
+    "label": "Mesoscale #1 Metadata (Mode 6)",
+    "band": "11"
+  },
+  "MESOSCALE_1_METADATA_MODE_6_BAND_12": {
+    "apid": "CB",
+    "label": "Mesoscale #1 Metadata (Mode 6)",
+    "band": "12"
+  },
+  "MESOSCALE_1_METADATA_MODE_6_BAND_13": {
+    "apid": "CC",
+    "label": "Mesoscale #1 Metadata (Mode 6)",
+    "band": "13"
+  },
+  "MESOSCALE_1_METADATA_MODE_6_BAND_14": {
+    "apid": "CD",
+    "label": "Mesoscale #1 Metadata (Mode 6)",
+    "band": "14"
+  },
+  "MESOSCALE_1_METADATA_MODE_6_BAND_15": {
+    "apid": "CE",
+    "label": "Mesoscale #1 Metadata (Mode 6)",
+    "band": "15"
+  },
+  "MESOSCALE_1_METADATA_MODE_6_BAND_16": {
+    "apid": "CF",
+    "label": "Mesoscale #1 Metadata (Mode 6)",
+    "band": "16"
+  },
+  "MESOSCALE_1_RADIANCE_IMAGE_MODE_6_BAND_1": {
+    "apid": "D0",
+    "label": "Mesoscale #1 Radiance Image (Mode 6)",
+    "band": "1"
+  },
+  "MESOSCALE_1_RADIANCE_IMAGE_MODE_6_BAND_2": {
+    "apid": "D1",
+    "label": "Mesoscale #1 Radiance Image (Mode 6)",
+    "band": "2"
+  },
+  "MESOSCALE_1_RADIANCE_IMAGE_MODE_6_BAND_3": {
+    "apid": "D2",
+    "label": "Mesoscale #1 Radiance Image (Mode 6)",
+    "band": "3"
+  },
+  "MESOSCALE_1_RADIANCE_IMAGE_MODE_6_BAND_4": {
+    "apid": "D3",
+    "label": "Mesoscale #1 Radiance Image (Mode 6)",
+    "band": "4"
+  },
+  "MESOSCALE_1_RADIANCE_IMAGE_MODE_6_BAND_5": {
+    "apid": "D4",
+    "label": "Mesoscale #1 Radiance Image (Mode 6)",
+    "band": "5"
+  },
+  "MESOSCALE_1_RADIANCE_IMAGE_MODE_6_BAND_6": {
+    "apid": "D5",
+    "label": "Mesoscale #1 Radiance Image (Mode 6)",
+    "band": "6"
+  },
+  "MESOSCALE_1_RADIANCE_IMAGE_MODE_6_BAND_7": {
+    "apid": "D6",
+    "label": "Mesoscale #1 Radiance Image (Mode 6)",
+    "band": "7"
+  },
+  "MESOSCALE_1_RADIANCE_IMAGE_MODE_6_BAND_8": {
+    "apid": "D7",
+    "label": "Mesoscale #1 Radiance Image (Mode 6)",
+    "band": "8"
+  },
+  "MESOSCALE_1_RADIANCE_IMAGE_MODE_6_BAND_9": {
+    "apid": "D8",
+    "label": "Mesoscale #1 Radiance Image (Mode 6)",
+    "band": "9"
+  },
+  "MESOSCALE_1_RADIANCE_IMAGE_MODE_6_BAND_10": {
+    "apid": "D9",
+    "label": "Mesoscale #1 Radiance Image (Mode 6)",
+    "band": "10"
+  },
+  "MESOSCALE_1_RADIANCE_IMAGE_MODE_6_BAND_11": {
+    "apid": "DA",
+    "label": "Mesoscale #1 Radiance Image (Mode 6)",
+    "band": "11"
+  },
+  "MESOSCALE_1_RADIANCE_IMAGE_MODE_6_BAND_12": {
+    "apid": "DB",
+    "label": "Mesoscale #1 Radiance Image (Mode 6)",
+    "band": "12"
+  },
+  "MESOSCALE_1_RADIANCE_IMAGE_MODE_6_BAND_13": {
+    "apid": "DC",
+    "label": "Mesoscale #1 Radiance Image (Mode 6)",
+    "band": "13"
+  },
+  "MESOSCALE_1_RADIANCE_IMAGE_MODE_6_BAND_14": {
+    "apid": "DD",
+    "label": "Mesoscale #1 Radiance Image (Mode 6)",
+    "band": "14"
+  },
+  "MESOSCALE_1_RADIANCE_IMAGE_MODE_6_BAND_15": {
+    "apid": "DE",
+    "label": "Mesoscale #1 Radiance Image (Mode 6)",
+    "band": "15"
+  },
+  "MESOSCALE_1_RADIANCE_IMAGE_MODE_6_BAND_16": {
+    "apid": "DF",
+    "label": "Mesoscale #1 Radiance Image (Mode 6)",
+    "band": "16"
+  },
+  "MESOSCALE_2_METADATA_MODE_6_BAND_1": {
+    "apid": "E0",
+    "label": "Mesoscale #2 Metadata (Mode 6)",
+    "band": "1"
+  },
+  "MESOSCALE_2_METADATA_MODE_6_BAND_2": {
+    "apid": "E1",
+    "label": "Mesoscale #2 Metadata (Mode 6)",
+    "band": "2"
+  },
+  "MESOSCALE_2_METADATA_MODE_6_BAND_3": {
+    "apid": "E2",
+    "label": "Mesoscale #2 Metadata (Mode 6)",
+    "band": "3"
+  },
+  "MESOSCALE_2_METADATA_MODE_6_BAND_4": {
+    "apid": "E3",
+    "label": "Mesoscale #2 Metadata (Mode 6)",
+    "band": "4"
+  },
+  "MESOSCALE_2_METADATA_MODE_6_BAND_5": {
+    "apid": "E4",
+    "label": "Mesoscale #2 Metadata (Mode 6)",
+    "band": "5"
+  },
+  "MESOSCALE_2_METADATA_MODE_6_BAND_6": {
+    "apid": "E5",
+    "label": "Mesoscale #2 Metadata (Mode 6)",
+    "band": "6"
+  },
+  "MESOSCALE_2_METADATA_MODE_6_BAND_7": {
+    "apid": "E6",
+    "label": "Mesoscale #2 Metadata (Mode 6)",
+    "band": "7"
+  },
+  "MESOSCALE_2_METADATA_MODE_6_BAND_8": {
+    "apid": "E7",
+    "label": "Mesoscale #2 Metadata (Mode 6)",
+    "band": "8"
+  },
+  "MESOSCALE_2_METADATA_MODE_6_BAND_9": {
+    "apid": "E8",
+    "label": "Mesoscale #2 Metadata (Mode 6)",
+    "band": "9"
+  },
+  "MESOSCALE_2_METADATA_MODE_6_BAND_10": {
+    "apid": "E9",
+    "label": "Mesoscale #2 Metadata (Mode 6)",
+    "band": "10"
+  },
+  "MESOSCALE_2_METADATA_MODE_6_BAND_11": {
+    "apid": "EA",
+    "label": "Mesoscale #2 Metadata (Mode 6)",
+    "band": "11"
+  },
+  "MESOSCALE_2_METADATA_MODE_6_BAND_12": {
+    "apid": "EB",
+    "label": "Mesoscale #2 Metadata (Mode 6)",
+    "band": "12"
+  },
+  "MESOSCALE_2_METADATA_MODE_6_BAND_13": {
+    "apid": "EC",
+    "label": "Mesoscale #2 Metadata (Mode 6)",
+    "band": "13"
+  },
+  "MESOSCALE_2_METADATA_MODE_6_BAND_14": {
+    "apid": "ED",
+    "label": "Mesoscale #2 Metadata (Mode 6)",
+    "band": "14"
+  },
+  "MESOSCALE_2_METADATA_MODE_6_BAND_15": {
+    "apid": "EE",
+    "label": "Mesoscale #2 Metadata (Mode 6)",
+    "band": "15"
+  },
+  "MESOSCALE_2_METADATA_MODE_6_BAND_16": {
+    "apid": "EF",
+    "label": "Mesoscale #2 Metadata (Mode 6)",
+    "band": "16"
+  },
+  "MESOSCALE_2_RADIANCE_IMAGE_MODE_6_BAND_1": {
+    "apid": "F0",
+    "label": "Mesoscale #2 Radiance Image (Mode 6)",
+    "band": "1"
+  },
+  "MESOSCALE_2_RADIANCE_IMAGE_MODE_6_BAND_2": {
+    "apid": "F1",
+    "label": "Mesoscale #2 Radiance Image (Mode 6)",
+    "band": "2"
+  },
+  "MESOSCALE_2_RADIANCE_IMAGE_MODE_6_BAND_3": {
+    "apid": "F2",
+    "label": "Mesoscale #2 Radiance Image (Mode 6)",
+    "band": "3"
+  },
+  "MESOSCALE_2_RADIANCE_IMAGE_MODE_6_BAND_4": {
+    "apid": "F3",
+    "label": "Mesoscale #2 Radiance Image (Mode 6)",
+    "band": "4"
+  },
+  "MESOSCALE_2_RADIANCE_IMAGE_MODE_6_BAND_5": {
+    "apid": "F4",
+    "label": "Mesoscale #2 Radiance Image (Mode 6)",
+    "band": "5"
+  },
+  "MESOSCALE_2_RADIANCE_IMAGE_MODE_6_BAND_6": {
+    "apid": "F5",
+    "label": "Mesoscale #2 Radiance Image (Mode 6)",
+    "band": "6"
+  },
+  "MESOSCALE_2_RADIANCE_IMAGE_MODE_6_BAND_7": {
+    "apid": "F6",
+    "label": "Mesoscale #2 Radiance Image (Mode 6)",
+    "band": "7"
+  },
+  "MESOSCALE_2_RADIANCE_IMAGE_MODE_6_BAND_8": {
+    "apid": "F7",
+    "label": "Mesoscale #2 Radiance Image (Mode 6)",
+    "band": "8"
+  },
+  "MESOSCALE_2_RADIANCE_IMAGE_MODE_6_BAND_9": {
+    "apid": "F8",
+    "label": "Mesoscale #2 Radiance Image (Mode 6)",
+    "band": "9"
+  },
+  "MESOSCALE_2_RADIANCE_IMAGE_MODE_6_BAND_10": {
+    "apid": "F9",
+    "label": "Mesoscale #2 Radiance Image (Mode 6)",
+    "band": "10"
+  },
+  "MESOSCALE_2_RADIANCE_IMAGE_MODE_6_BAND_11": {
+    "apid": "FA",
+    "label": "Mesoscale #2 Radiance Image (Mode 6)",
+    "band": "11"
+  },
+  "MESOSCALE_2_RADIANCE_IMAGE_MODE_6_BAND_12": {
+    "apid": "FB",
+    "label": "Mesoscale #2 Radiance Image (Mode 6)",
+    "band": "12"
+  },
+  "MESOSCALE_2_RADIANCE_IMAGE_MODE_6_BAND_13": {
+    "apid": "FC",
+    "label": "Mesoscale #2 Radiance Image (Mode 6)",
+    "band": "13"
+  },
+  "MESOSCALE_2_RADIANCE_IMAGE_MODE_6_BAND_14": {
+    "apid": "FD",
+    "label": "Mesoscale #2 Radiance Image (Mode 6)",
+    "band": "14"
+  },
+  "MESOSCALE_2_RADIANCE_IMAGE_MODE_6_BAND_15": {
+    "apid": "FE",
+    "label": "Mesoscale #2 Radiance Image (Mode 6)",
+    "band": "15"
+  },
+  "MESOSCALE_2_RADIANCE_IMAGE_MODE_6_BAND_16": {
+    "apid": "FF",
+    "label": "Mesoscale #2 Radiance Image (Mode 6)",
+    "band": "16"
+  },
+  "FULL_DISK_METADATA_MODE_3_BAND_1": {
+    "apid": "100",
+    "label": "Full Disk Metadata (Mode 3)",
+    "band": "1"
+  },
+  "FULL_DISK_METADATA_MODE_3_BAND_2": {
+    "apid": "101",
+    "label": "Full Disk Metadata (Mode 3)",
+    "band": "2"
+  },
+  "FULL_DISK_METADATA_MODE_3_BAND_3": {
+    "apid": "102",
+    "label": "Full Disk Metadata (Mode 3)",
+    "band": "3"
+  },
+  "FULL_DISK_METADATA_MODE_3_BAND_4": {
+    "apid": "103",
+    "label": "Full Disk Metadata (Mode 3)",
+    "band": "4"
+  },
+  "FULL_DISK_METADATA_MODE_3_BAND_5": {
+    "apid": "104",
+    "label": "Full Disk Metadata (Mode 3)",
+    "band": "5"
+  },
+  "FULL_DISK_METADATA_MODE_3_BAND_6": {
+    "apid": "105",
+    "label": "Full Disk Metadata (Mode 3)",
+    "band": "6"
+  },
+  "FULL_DISK_METADATA_MODE_3_BAND_7": {
+    "apid": "106",
+    "label": "Full Disk Metadata (Mode 3)",
+    "band": "7"
+  },
+  "FULL_DISK_METADATA_MODE_3_BAND_8": {
+    "apid": "107",
+    "label": "Full Disk Metadata (Mode 3)",
+    "band": "8"
+  },
+  "FULL_DISK_METADATA_MODE_3_BAND_9": {
+    "apid": "108",
+    "label": "Full Disk Metadata (Mode 3)",
+    "band": "9"
+  },
+  "FULL_DISK_METADATA_MODE_3_BAND_10": {
+    "apid": "109",
+    "label": "Full Disk Metadata (Mode 3)",
+    "band": "10"
+  },
+  "FULL_DISK_METADATA_MODE_3_BAND_11": {
+    "apid": "10A",
+    "label": "Full Disk Metadata (Mode 3)",
+    "band": "11"
+  },
+  "FULL_DISK_METADATA_MODE_3_BAND_12": {
+    "apid": "10B",
+    "label": "Full Disk Metadata (Mode 3)",
+    "band": "12"
+  },
+  "FULL_DISK_METADATA_MODE_3_BAND_13": {
+    "apid": "10C",
+    "label": "Full Disk Metadata (Mode 3)",
+    "band": "13"
+  },
+  "FULL_DISK_METADATA_MODE_3_BAND_14": {
+    "apid": "10D",
+    "label": "Full Disk Metadata (Mode 3)",
+    "band": "14"
+  },
+  "FULL_DISK_METADATA_MODE_3_BAND_15": {
+    "apid": "10E",
+    "label": "Full Disk Metadata (Mode 3)",
+    "band": "15"
+  },
+  "FULL_DISK_METADATA_MODE_3_BAND_16": {
+    "apid": "10F",
+    "label": "Full Disk Metadata (Mode 3)",
+    "band": "16"
+  },
+  "FULL_DISK_RADIANCE_IMAGE_DATA_MODE_3_BAND_1": {
+    "apid": "110",
+    "label": "Full Disk Radiance Image Data (Mode 3)",
+    "band": "1"
+  },
+  "FULL_DISK_RADIANCE_IMAGE_DATA_MODE_3_BAND_2": {
+    "apid": "111",
+    "label": "Full Disk Radiance Image Data (Mode 3)",
+    "band": "2"
+  },
+  "FULL_DISK_RADIANCE_IMAGE_DATA_MODE_3_BAND_3": {
+    "apid": "112",
+    "label": "Full Disk Radiance Image Data (Mode 3)",
+    "band": "3"
+  },
+  "FULL_DISK_RADIANCE_IMAGE_DATA_MODE_3_BAND_4": {
+    "apid": "113",
+    "label": "Full Disk Radiance Image Data (Mode 3)",
+    "band": "4"
+  },
+  "FULL_DISK_RADIANCE_IMAGE_DATA_MODE_3_BAND_5": {
+    "apid": "114",
+    "label": "Full Disk Radiance Image Data (Mode 3)",
+    "band": "5"
+  },
+  "FULL_DISK_RADIANCE_IMAGE_DATA_MODE_3_BAND_6": {
+    "apid": "115",
+    "label": "Full Disk Radiance Image Data (Mode 3)",
+    "band": "6"
+  },
+  "FULL_DISK_RADIANCE_IMAGE_DATA_MODE_3_BAND_7": {
+    "apid": "116",
+    "label": "Full Disk Radiance Image Data (Mode 3)",
+    "band": "7"
+  },
+  "FULL_DISK_RADIANCE_IMAGE_DATA_MODE_3_BAND_8": {
+    "apid": "117",
+    "label": "Full Disk Radiance Image Data (Mode 3)",
+    "band": "8"
+  },
+  "FULL_DISK_RADIANCE_IMAGE_DATA_MODE_3_BAND_9": {
+    "apid": "118",
+    "label": "Full Disk Radiance Image Data (Mode 3)",
+    "band": "9"
+  },
+  "FULL_DISK_RADIANCE_IMAGE_DATA_MODE_3_BAND_10": {
+    "apid": "119",
+    "label": "Full Disk Radiance Image Data (Mode 3)",
+    "band": "10"
+  },
+  "FULL_DISK_RADIANCE_IMAGE_DATA_MODE_3_BAND_11": {
+    "apid": "11A",
+    "label": "Full Disk Radiance Image Data (Mode 3)",
+    "band": "11"
+  },
+  "FULL_DISK_RADIANCE_IMAGE_DATA_MODE_3_BAND_12": {
+    "apid": "11B",
+    "label": "Full Disk Radiance Image Data (Mode 3)",
+    "band": "12"
+  },
+  "FULL_DISK_RADIANCE_IMAGE_DATA_MODE_3_BAND_13": {
+    "apid": "11C",
+    "label": "Full Disk Radiance Image Data (Mode 3)",
+    "band": "13"
+  },
+  "FULL_DISK_RADIANCE_IMAGE_DATA_MODE_3_BAND_14": {
+    "apid": "11D",
+    "label": "Full Disk Radiance Image Data (Mode 3)",
+    "band": "14"
+  },
+  "FULL_DISK_RADIANCE_IMAGE_DATA_MODE_3_BAND_15": {
+    "apid": "11E",
+    "label": "Full Disk Radiance Image Data (Mode 3)",
+    "band": "15"
+  },
+  "FULL_DISK_RADIANCE_IMAGE_DATA_MODE_3_BAND_16": {
+    "apid": "11F",
+    "label": "Full Disk Radiance Image Data (Mode 3)",
+    "band": "16"
+  },
+  "CONTINENTAL_UNITED_STATES_METADATA_MODE_3_BAND_1": {
+    "apid": "120",
+    "label": "Continental United States Metadata (Mode 3)",
+    "band": "1"
+  },
+  "CONTINENTAL_UNITED_STATES_METADATA_MODE_3_BAND_2": {
+    "apid": "121",
+    "label": "Continental United States Metadata (Mode 3)",
+    "band": "2"
+  },
+  "CONTINENTAL_UNITED_STATES_METADATA_MODE_3_BAND_3": {
+    "apid": "122",
+    "label": "Continental United States Metadata (Mode 3)",
+    "band": "3"
+  },
+  "CONTINENTAL_UNITED_STATES_METADATA_MODE_3_BAND_4": {
+    "apid": "123",
+    "label": "Continental United States Metadata (Mode 3)",
+    "band": "4"
+  },
+  "CONTINENTAL_UNITED_STATES_METADATA_MODE_3_BAND_5": {
+    "apid": "124",
+    "label": "Continental United States Metadata (Mode 3)",
+    "band": "5"
+  },
+  "CONTINENTAL_UNITED_STATES_METADATA_MODE_3_BAND_6": {
+    "apid": "125",
+    "label": "Continental United States Metadata (Mode 3)",
+    "band": "6"
+  },
+  "CONTINENTAL_UNITED_STATES_METADATA_MODE_3_BAND_7": {
+    "apid": "126",
+    "label": "Continental United States Metadata (Mode 3)",
+    "band": "7"
+  },
+  "CONTINENTAL_UNITED_STATES_METADATA_MODE_3_BAND_8": {
+    "apid": "127",
+    "label": "Continental United States Metadata (Mode 3)",
+    "band": "8"
+  },
+  "CONTINENTAL_UNITED_STATES_METADATA_MODE_3_BAND_9": {
+    "apid": "128",
+    "label": "Continental United States Metadata (Mode 3)",
+    "band": "9"
+  },
+  "CONTINENTAL_UNITED_STATES_METADATA_MODE_3_BAND_10": {
+    "apid": "129",
+    "label": "Continental United States Metadata (Mode 3)",
+    "band": "10"
+  },
+  "CONTINENTAL_UNITED_STATES_METADATA_MODE_3_BAND_11": {
+    "apid": "12A",
+    "label": "Continental United States Metadata (Mode 3)",
+    "band": "11"
+  },
+  "CONTINENTAL_UNITED_STATES_METADATA_MODE_3_BAND_12": {
+    "apid": "12B",
+    "label": "Continental United States Metadata (Mode 3)",
+    "band": "12"
+  },
+  "CONTINENTAL_UNITED_STATES_METADATA_MODE_3_BAND_13": {
+    "apid": "12C",
+    "label": "Continental United States Metadata (Mode 3)",
+    "band": "13"
+  },
+  "CONTINENTAL_UNITED_STATES_METADATA_MODE_3_BAND_14": {
+    "apid": "12D",
+    "label": "Continental United States Metadata (Mode 3)",
+    "band": "14"
+  },
+  "CONTINENTAL_UNITED_STATES_METADATA_MODE_3_BAND_15": {
+    "apid": "12E",
+    "label": "Continental United States Metadata (Mode 3)",
+    "band": "15"
+  },
+  "CONTINENTAL_UNITED_STATES_METADATA_MODE_3_BAND_16": {
+    "apid": "12F",
+    "label": "Continental United States Metadata (Mode 3)",
+    "band": "16"
+  },
+  "CONTINENTAL_UNITED_STATES_RADIANCE_IMAGE_MODE_3_BAND_1": {
+    "apid": "130",
+    "label": "Continental United States Radiance Image (Mode 3)",
+    "band": "1"
+  },
+  "CONTINENTAL_UNITED_STATES_RADIANCE_IMAGE_MODE_3_BAND_2": {
+    "apid": "131",
+    "label": "Continental United States Radiance Image (Mode 3)",
+    "band": "2"
+  },
+  "CONTINENTAL_UNITED_STATES_RADIANCE_IMAGE_MODE_3_BAND_3": {
+    "apid": "132",
+    "label": "Continental United States Radiance Image (Mode 3)",
+    "band": "3"
+  },
+  "CONTINENTAL_UNITED_STATES_RADIANCE_IMAGE_MODE_3_BAND_4": {
+    "apid": "133",
+    "label": "Continental United States Radiance Image (Mode 3)",
+    "band": "4"
+  },
+  "CONTINENTAL_UNITED_STATES_RADIANCE_IMAGE_MODE_3_BAND_5": {
+    "apid": "134",
+    "label": "Continental United States Radiance Image (Mode 3)",
+    "band": "5"
+  },
+  "CONTINENTAL_UNITED_STATES_RADIANCE_IMAGE_MODE_3_BAND_6": {
+    "apid": "135",
+    "label": "Continental United States Radiance Image (Mode 3)",
+    "band": "6"
+  },
+  "CONTINENTAL_UNITED_STATES_RADIANCE_IMAGE_MODE_3_BAND_7": {
+    "apid": "136",
+    "label": "Continental United States Radiance Image (Mode 3)",
+    "band": "7"
+  },
+  "CONTINENTAL_UNITED_STATES_RADIANCE_IMAGE_MODE_3_BAND_8": {
+    "apid": "137",
+    "label": "Continental United States Radiance Image (Mode 3)",
+    "band": "8"
+  },
+  "CONTINENTAL_UNITED_STATES_RADIANCE_IMAGE_MODE_3_BAND_9": {
+    "apid": "138",
+    "label": "Continental United States Radiance Image (Mode 3)",
+    "band": "9"
+  },
+  "CONTINENTAL_UNITED_STATES_RADIANCE_IMAGE_MODE_3_BAND_10": {
+    "apid": "139",
+    "label": "Continental United States Radiance Image (Mode 3)",
+    "band": "10"
+  },
+  "CONTINENTAL_UNITED_STATES_RADIANCE_IMAGE_MODE_3_BAND_11": {
+    "apid": "13A",
+    "label": "Continental United States Radiance Image (Mode 3)",
+    "band": "11"
+  },
+  "CONTINENTAL_UNITED_STATES_RADIANCE_IMAGE_MODE_3_BAND_12": {
+    "apid": "13B",
+    "label": "Continental United States Radiance Image (Mode 3)",
+    "band": "12"
+  },
+  "CONTINENTAL_UNITED_STATES_RADIANCE_IMAGE_MODE_3_BAND_13": {
+    "apid": "13C",
+    "label": "Continental United States Radiance Image (Mode 3)",
+    "band": "13"
+  },
+  "CONTINENTAL_UNITED_STATES_RADIANCE_IMAGE_MODE_3_BAND_14": {
+    "apid": "13D",
+    "label": "Continental United States Radiance Image (Mode 3)",
+    "band": "14"
+  },
+  "CONTINENTAL_UNITED_STATES_RADIANCE_IMAGE_MODE_3_BAND_15": {
+    "apid": "13E",
+    "label": "Continental United States Radiance Image (Mode 3)",
+    "band": "15"
+  },
+  "CONTINENTAL_UNITED_STATES_RADIANCE_IMAGE_MODE_3_BAND_16": {
+    "apid": "13F",
+    "label": "Continental United States Radiance Image (Mode 3)",
+    "band": "16"
+  },
+  "MESOSCALE_1_METADATA_MODE_3_BAND_1": {
+    "apid": "140",
+    "label": "Mesoscale #1 Metadata (Mode 3)",
+    "band": "1"
+  },
+  "MESOSCALE_1_METADATA_MODE_3_BAND_2": {
+    "apid": "141",
+    "label": "Mesoscale #1 Metadata (Mode 3)",
+    "band": "2"
+  },
+  "MESOSCALE_1_METADATA_MODE_3_BAND_3": {
+    "apid": "142",
+    "label": "Mesoscale #1 Metadata (Mode 3)",
+    "band": "3"
+  },
+  "MESOSCALE_1_METADATA_MODE_3_BAND_4": {
+    "apid": "143",
+    "label": "Mesoscale #1 Metadata (Mode 3)",
+    "band": "4"
+  },
+  "MESOSCALE_1_METADATA_MODE_3_BAND_5": {
+    "apid": "144",
+    "label": "Mesoscale #1 Metadata (Mode 3)",
+    "band": "5"
+  },
+  "MESOSCALE_1_METADATA_MODE_3_BAND_6": {
+    "apid": "145",
+    "label": "Mesoscale #1 Metadata (Mode 3)",
+    "band": "6"
+  },
+  "MESOSCALE_1_METADATA_MODE_3_BAND_7": {
+    "apid": "146",
+    "label": "Mesoscale #1 Metadata (Mode 3)",
+    "band": "7"
+  },
+  "MESOSCALE_1_METADATA_MODE_3_BAND_8": {
+    "apid": "147",
+    "label": "Mesoscale #1 Metadata (Mode 3)",
+    "band": "8"
+  },
+  "MESOSCALE_1_METADATA_MODE_3_BAND_9": {
+    "apid": "148",
+    "label": "Mesoscale #1 Metadata (Mode 3)",
+    "band": "9"
+  },
+  "MESOSCALE_1_METADATA_MODE_3_BAND_10": {
+    "apid": "149",
+    "label": "Mesoscale #1 Metadata (Mode 3)",
+    "band": "10"
+  },
+  "MESOSCALE_1_METADATA_MODE_3_BAND_11": {
+    "apid": "14A",
+    "label": "Mesoscale #1 Metadata (Mode 3)",
+    "band": "11"
+  },
+  "MESOSCALE_1_METADATA_MODE_3_BAND_12": {
+    "apid": "14B",
+    "label": "Mesoscale #1 Metadata (Mode 3)",
+    "band": "12"
+  },
+  "MESOSCALE_1_METADATA_MODE_3_BAND_13": {
+    "apid": "14C",
+    "label": "Mesoscale #1 Metadata (Mode 3)",
+    "band": "13"
+  },
+  "MESOSCALE_1_METADATA_MODE_3_BAND_14": {
+    "apid": "14D",
+    "label": "Mesoscale #1 Metadata (Mode 3)",
+    "band": "14"
+  },
+  "MESOSCALE_1_METADATA_MODE_3_BAND_15": {
+    "apid": "14E",
+    "label": "Mesoscale #1 Metadata (Mode 3)",
+    "band": "15"
+  },
+  "MESOSCALE_1_METADATA_MODE_3_BAND_16": {
+    "apid": "14F",
+    "label": "Mesoscale #1 Metadata (Mode 3)",
+    "band": "16"
+  },
+  "MESOSCALE_1_RADIANCE_IMAGE_MODE_3_BAND_1": {
+    "apid": "150",
+    "label": "Mesoscale #1 Radiance Image (Mode 3)",
+    "band": "1"
+  },
+  "MESOSCALE_1_RADIANCE_IMAGE_MODE_3_BAND_2": {
+    "apid": "151",
+    "label": "Mesoscale #1 Radiance Image (Mode 3)",
+    "band": "2"
+  },
+  "MESOSCALE_1_RADIANCE_IMAGE_MODE_3_BAND_3": {
+    "apid": "152",
+    "label": "Mesoscale #1 Radiance Image (Mode 3)",
+    "band": "3"
+  },
+  "MESOSCALE_1_RADIANCE_IMAGE_MODE_3_BAND_4": {
+    "apid": "153",
+    "label": "Mesoscale #1 Radiance Image (Mode 3)",
+    "band": "4"
+  },
+  "MESOSCALE_1_RADIANCE_IMAGE_MODE_3_BAND_5": {
+    "apid": "154",
+    "label": "Mesoscale #1 Radiance Image (Mode 3)",
+    "band": "5"
+  },
+  "MESOSCALE_1_RADIANCE_IMAGE_MODE_3_BAND_6": {
+    "apid": "155",
+    "label": "Mesoscale #1 Radiance Image (Mode 3)",
+    "band": "6"
+  },
+  "MESOSCALE_1_RADIANCE_IMAGE_MODE_3_BAND_7": {
+    "apid": "156",
+    "label": "Mesoscale #1 Radiance Image (Mode 3)",
+    "band": "7"
+  },
+  "MESOSCALE_1_RADIANCE_IMAGE_MODE_3_BAND_8": {
+    "apid": "157",
+    "label": "Mesoscale #1 Radiance Image (Mode 3)",
+    "band": "8"
+  },
+  "MESOSCALE_1_RADIANCE_IMAGE_MODE_3_BAND_9": {
+    "apid": "158",
+    "label": "Mesoscale #1 Radiance Image (Mode 3)",
+    "band": "9"
+  },
+  "MESOSCALE_1_RADIANCE_IMAGE_MODE_3_BAND_10": {
+    "apid": "159",
+    "label": "Mesoscale #1 Radiance Image (Mode 3)",
+    "band": "10"
+  },
+  "MESOSCALE_1_RADIANCE_IMAGE_MODE_3_BAND_11": {
+    "apid": "15A",
+    "label": "Mesoscale #1 Radiance Image (Mode 3)",
+    "band": "11"
+  },
+  "MESOSCALE_1_RADIANCE_IMAGE_MODE_3_BAND_12": {
+    "apid": "15B",
+    "label": "Mesoscale #1 Radiance Image (Mode 3)",
+    "band": "12"
+  },
+  "MESOSCALE_1_RADIANCE_IMAGE_MODE_3_BAND_13": {
+    "apid": "15C",
+    "label": "Mesoscale #1 Radiance Image (Mode 3)",
+    "band": "13"
+  },
+  "MESOSCALE_1_RADIANCE_IMAGE_MODE_3_BAND_14": {
+    "apid": "15D",
+    "label": "Mesoscale #1 Radiance Image (Mode 3)",
+    "band": "14"
+  },
+  "MESOSCALE_1_RADIANCE_IMAGE_MODE_3_BAND_15": {
+    "apid": "15E",
+    "label": "Mesoscale #1 Radiance Image (Mode 3)",
+    "band": "15"
+  },
+  "MESOSCALE_1_RADIANCE_IMAGE_MODE_3_BAND_16": {
+    "apid": "15F",
+    "label": "Mesoscale #1 Radiance Image (Mode 3)",
+    "band": "16"
+  },
+  "MESOSCALE_2_METADATA_MODE_3_BAND_1": {
+    "apid": "160",
+    "label": "Mesoscale #2 Metadata (Mode 3)",
+    "band": "1"
+  },
+  "MESOSCALE_2_METADATA_MODE_3_BAND_2": {
+    "apid": "161",
+    "label": "Mesoscale #2 Metadata (Mode 3)",
+    "band": "2"
+  },
+  "MESOSCALE_2_METADATA_MODE_3_BAND_3": {
+    "apid": "162",
+    "label": "Mesoscale #2 Metadata (Mode 3)",
+    "band": "3"
+  },
+  "MESOSCALE_2_METADATA_MODE_3_BAND_4": {
+    "apid": "163",
+    "label": "Mesoscale #2 Metadata (Mode 3)",
+    "band": "4"
+  },
+  "MESOSCALE_2_METADATA_MODE_3_BAND_5": {
+    "apid": "164",
+    "label": "Mesoscale #2 Metadata (Mode 3)",
+    "band": "5"
+  },
+  "MESOSCALE_2_METADATA_MODE_3_BAND_6": {
+    "apid": "165",
+    "label": "Mesoscale #2 Metadata (Mode 3)",
+    "band": "6"
+  },
+  "MESOSCALE_2_METADATA_MODE_3_BAND_7": {
+    "apid": "166",
+    "label": "Mesoscale #2 Metadata (Mode 3)",
+    "band": "7"
+  },
+  "MESOSCALE_2_METADATA_MODE_3_BAND_8": {
+    "apid": "167",
+    "label": "Mesoscale #2 Metadata (Mode 3)",
+    "band": "8"
+  },
+  "MESOSCALE_2_METADATA_MODE_3_BAND_9": {
+    "apid": "168",
+    "label": "Mesoscale #2 Metadata (Mode 3)",
+    "band": "9"
+  },
+  "MESOSCALE_2_METADATA_MODE_3_BAND_10": {
+    "apid": "169",
+    "label": "Mesoscale #2 Metadata (Mode 3)",
+    "band": "10"
+  },
+  "MESOSCALE_2_METADATA_MODE_3_BAND_11": {
+    "apid": "16A",
+    "label": "Mesoscale #2 Metadata (Mode 3)",
+    "band": "11"
+  },
+  "MESOSCALE_2_METADATA_MODE_3_BAND_12": {
+    "apid": "16B",
+    "label": "Mesoscale #2 Metadata (Mode 3)",
+    "band": "12"
+  },
+  "MESOSCALE_2_METADATA_MODE_3_BAND_13": {
+    "apid": "16C",
+    "label": "Mesoscale #2 Metadata (Mode 3)",
+    "band": "13"
+  },
+  "MESOSCALE_2_METADATA_MODE_3_BAND_14": {
+    "apid": "16D",
+    "label": "Mesoscale #2 Metadata (Mode 3)",
+    "band": "14"
+  },
+  "MESOSCALE_2_METADATA_MODE_3_BAND_15": {
+    "apid": "16E",
+    "label": "Mesoscale #2 Metadata (Mode 3)",
+    "band": "15"
+  },
+  "MESOSCALE_2_METADATA_MODE_3_BAND_16": {
+    "apid": "16F",
+    "label": "Mesoscale #2 Metadata (Mode 3)",
+    "band": "16"
+  },
+  "MESOSCALE_2_RADIANCE_IMAGE_MODE_3_BAND_1": {
+    "apid": "170",
+    "label": "Mesoscale #2 Radiance Image (Mode 3)",
+    "band": "1"
+  },
+  "MESOSCALE_2_RADIANCE_IMAGE_MODE_3_BAND_2": {
+    "apid": "171",
+    "label": "Mesoscale #2 Radiance Image (Mode 3)",
+    "band": "2"
+  },
+  "MESOSCALE_2_RADIANCE_IMAGE_MODE_3_BAND_3": {
+    "apid": "172",
+    "label": "Mesoscale #2 Radiance Image (Mode 3)",
+    "band": "3"
+  },
+  "MESOSCALE_2_RADIANCE_IMAGE_MODE_3_BAND_4": {
+    "apid": "173",
+    "label": "Mesoscale #2 Radiance Image (Mode 3)",
+    "band": "4"
+  },
+  "MESOSCALE_2_RADIANCE_IMAGE_MODE_3_BAND_5": {
+    "apid": "174",
+    "label": "Mesoscale #2 Radiance Image (Mode 3)",
+    "band": "5"
+  },
+  "MESOSCALE_2_RADIANCE_IMAGE_MODE_3_BAND_6": {
+    "apid": "175",
+    "label": "Mesoscale #2 Radiance Image (Mode 3)",
+    "band": "6"
+  },
+  "MESOSCALE_2_RADIANCE_IMAGE_MODE_3_BAND_7": {
+    "apid": "176",
+    "label": "Mesoscale #2 Radiance Image (Mode 3)",
+    "band": "7"
+  },
+  "MESOSCALE_2_RADIANCE_IMAGE_MODE_3_BAND_8": {
+    "apid": "177",
+    "label": "Mesoscale #2 Radiance Image (Mode 3)",
+    "band": "8"
+  },
+  "MESOSCALE_2_RADIANCE_IMAGE_MODE_3_BAND_9": {
+    "apid": "178",
+    "label": "Mesoscale #2 Radiance Image (Mode 3)",
+    "band": "9"
+  },
+  "MESOSCALE_2_RADIANCE_IMAGE_MODE_3_BAND_10": {
+    "apid": "179",
+    "label": "Mesoscale #2 Radiance Image (Mode 3)",
+    "band": "10"
+  },
+  "MESOSCALE_2_RADIANCE_IMAGE_MODE_3_BAND_11": {
+    "apid": "17A",
+    "label": "Mesoscale #2 Radiance Image (Mode 3)",
+    "band": "11"
+  },
+  "MESOSCALE_2_RADIANCE_IMAGE_MODE_3_BAND_12": {
+    "apid": "17B",
+    "label": "Mesoscale #2 Radiance Image (Mode 3)",
+    "band": "12"
+  },
+  "MESOSCALE_2_RADIANCE_IMAGE_MODE_3_BAND_13": {
+    "apid": "17C",
+    "label": "Mesoscale #2 Radiance Image (Mode 3)",
+    "band": "13"
+  },
+  "MESOSCALE_2_RADIANCE_IMAGE_MODE_3_BAND_14": {
+    "apid": "17D",
+    "label": "Mesoscale #2 Radiance Image (Mode 3)",
+    "band": "14"
+  },
+  "MESOSCALE_2_RADIANCE_IMAGE_MODE_3_BAND_15": {
+    "apid": "17E",
+    "label": "Mesoscale #2 Radiance Image (Mode 3)",
+    "band": "15"
+  },
+  "MESOSCALE_2_RADIANCE_IMAGE_MODE_3_BAND_16": {
+    "apid": "17F",
+    "label": "Mesoscale #2 Radiance Image (Mode 3)",
+    "band": "16"
+  },
+  "FULL_DISK_METADATA_MODE_4_BAND_1": {
+    "apid": "180",
+    "label": "Full Disk Metadata (Mode 4)",
+    "band": "1"
+  },
+  "FULL_DISK_METADATA_MODE_4_BAND_2": {
+    "apid": "181",
+    "label": "Full Disk Metadata (Mode 4)",
+    "band": "2"
+  },
+  "FULL_DISK_METADATA_MODE_4_BAND_3": {
+    "apid": "182",
+    "label": "Full Disk Metadata (Mode 4)",
+    "band": "3"
+  },
+  "FULL_DISK_METADATA_MODE_4_BAND_4": {
+    "apid": "183",
+    "label": "Full Disk Metadata (Mode 4)",
+    "band": "4"
+  },
+  "FULL_DISK_METADATA_MODE_4_BAND_5": {
+    "apid": "184",
+    "label": "Full Disk Metadata (Mode 4)",
+    "band": "5"
+  },
+  "FULL_DISK_METADATA_MODE_4_BAND_6": {
+    "apid": "185",
+    "label": "Full Disk Metadata (Mode 4)",
+    "band": "6"
+  },
+  "FULL_DISK_METADATA_MODE_4_BAND_7": {
+    "apid": "186",
+    "label": "Full Disk Metadata (Mode 4)",
+    "band": "7"
+  },
+  "FULL_DISK_METADATA_MODE_4_BAND_8": {
+    "apid": "187",
+    "label": "Full Disk Metadata (Mode 4)",
+    "band": "8"
+  },
+  "FULL_DISK_METADATA_MODE_4_BAND_9": {
+    "apid": "188",
+    "label": "Full Disk Metadata (Mode 4)",
+    "band": "9"
+  },
+  "FULL_DISK_METADATA_MODE_4_BAND_10": {
+    "apid": "189",
+    "label": "Full Disk Metadata (Mode 4)",
+    "band": "10"
+  },
+  "FULL_DISK_METADATA_MODE_4_BAND_11": {
+    "apid": "18A",
+    "label": "Full Disk Metadata (Mode 4)",
+    "band": "11"
+  },
+  "FULL_DISK_METADATA_MODE_4_BAND_12": {
+    "apid": "18B",
+    "label": "Full Disk Metadata (Mode 4)",
+    "band": "12"
+  },
+  "FULL_DISK_METADATA_MODE_4_BAND_13": {
+    "apid": "18C",
+    "label": "Full Disk Metadata (Mode 4)",
+    "band": "13"
+  },
+  "FULL_DISK_METADATA_MODE_4_BAND_14": {
+    "apid": "18D",
+    "label": "Full Disk Metadata (Mode 4)",
+    "band": "14"
+  },
+  "FULL_DISK_METADATA_MODE_4_BAND_15": {
+    "apid": "18E",
+    "label": "Full Disk Metadata (Mode 4)",
+    "band": "15"
+  },
+  "FULL_DISK_METADATA_MODE_4_BAND_16": {
+    "apid": "18F",
+    "label": "Full Disk Metadata (Mode 4)",
+    "band": "16"
+  },
+  "FULL_DISK_RADIANCE_IMAGE_DATA_MODE_4_BAND_1": {
+    "apid": "190",
+    "label": "Full Disk Radiance Image Data (Mode 4)",
+    "band": "1"
+  },
+  "FULL_DISK_RADIANCE_IMAGE_DATA_MODE_4_BAND_2": {
+    "apid": "191",
+    "label": "Full Disk Radiance Image Data (Mode 4)",
+    "band": "2"
+  },
+  "FULL_DISK_RADIANCE_IMAGE_DATA_MODE_4_BAND_3": {
+    "apid": "192",
+    "label": "Full Disk Radiance Image Data (Mode 4)",
+    "band": "3"
+  },
+  "FULL_DISK_RADIANCE_IMAGE_DATA_MODE_4_BAND_4": {
+    "apid": "193",
+    "label": "Full Disk Radiance Image Data (Mode 4)",
+    "band": "4"
+  },
+  "FULL_DISK_RADIANCE_IMAGE_DATA_MODE_4_BAND_5": {
+    "apid": "194",
+    "label": "Full Disk Radiance Image Data (Mode 4)",
+    "band": "5"
+  },
+  "FULL_DISK_RADIANCE_IMAGE_DATA_MODE_4_BAND_6": {
+    "apid": "195",
+    "label": "Full Disk Radiance Image Data (Mode 4)",
+    "band": "6"
+  },
+  "FULL_DISK_RADIANCE_IMAGE_DATA_MODE_4_BAND_7": {
+    "apid": "196",
+    "label": "Full Disk Radiance Image Data (Mode 4)",
+    "band": "7"
+  },
+  "FULL_DISK_RADIANCE_IMAGE_DATA_MODE_4_BAND_8": {
+    "apid": "197",
+    "label": "Full Disk Radiance Image Data (Mode 4)",
+    "band": "8"
+  },
+  "FULL_DISK_RADIANCE_IMAGE_DATA_MODE_4_BAND_9": {
+    "apid": "198",
+    "label": "Full Disk Radiance Image Data (Mode 4)",
+    "band": "9"
+  },
+  "FULL_DISK_RADIANCE_IMAGE_DATA_MODE_4_BAND_10": {
+    "apid": "199",
+    "label": "Full Disk Radiance Image Data (Mode 4)",
+    "band": "10"
+  },
+  "FULL_DISK_RADIANCE_IMAGE_DATA_MODE_4_BAND_11": {
+    "apid": "19A",
+    "label": "Full Disk Radiance Image Data (Mode 4)",
+    "band": "11"
+  },
+  "FULL_DISK_RADIANCE_IMAGE_DATA_MODE_4_BAND_12": {
+    "apid": "19B",
+    "label": "Full Disk Radiance Image Data (Mode 4)",
+    "band": "12"
+  },
+  "FULL_DISK_RADIANCE_IMAGE_DATA_MODE_4_BAND_13": {
+    "apid": "19C",
+    "label": "Full Disk Radiance Image Data (Mode 4)",
+    "band": "13"
+  },
+  "FULL_DISK_RADIANCE_IMAGE_DATA_MODE_4_BAND_14": {
+    "apid": "19D",
+    "label": "Full Disk Radiance Image Data (Mode 4)",
+    "band": "14"
+  },
+  "FULL_DISK_RADIANCE_IMAGE_DATA_MODE_4_BAND_15": {
+    "apid": "19E",
+    "label": "Full Disk Radiance Image Data (Mode 4)",
+    "band": "15"
+  },
+  "FULL_DISK_RADIANCE_IMAGE_DATA_MODE_4_BAND_16": {
+    "apid": "19F",
+    "label": "Full Disk Radiance Image Data (Mode 4)",
+    "band": "16"
+  },
+  "LIGHTNING_DETECTION_METADATA": {
+    "apid": "300",
+    "label": "Lightning Detection Metadata",
+    "band": ""
+  },
+  "EVENT_DATA": {
+    "apid": "301",
+    "label": "Event Data",
+    "band": ""
+  },
+  "FLASH_DATA": {
+    "apid": "302",
+    "label": "Flash Data",
+    "band": ""
+  },
+  "GROUP_DATA": {
+    "apid": "303",
+    "label": "Group Data",
+    "band": ""
+  },
+  "SOLAR_FLUX_EUV_METADATA": {
+    "apid": "380",
+    "label": "Solar Flux: EUV Metadata",
+    "band": ""
+  },
+  "SOLAR_FLUX_EUV_DATA": {
+    "apid": "381",
+    "label": "Solar Flux: EUV Data",
+    "band": ""
+  },
+  "SOLAR_FLUX_XRAY_METADATA": {
+    "apid": "382",
+    "label": "Solar Flux: X-Ray Metadata",
+    "band": ""
+  },
+  "SOLAR_FLUX_XRAY_DATA": {
+    "apid": "383",
+    "label": "Solar Flux: X-Ray Data",
+    "band": ""
+  },
+  "ENERGETIC_HEAVY_IONS_METADATA": {
+    "apid": "400",
+    "label": "Energetic Heavy Ions Metadata",
+    "band": ""
+  },
+  "ENERGETIC_HEAVY_IONS_DATA": {
+    "apid": "401",
+    "label": "Energetic Heavy Ions Data",
+    "band": ""
+  },
+  "MAGNETOSPHERIC_ELECTRONS_AND_PROTONS_LOW_ENERGY_METADATA": {
+    "apid": "410",
+    "label": "Magnetospheric Electrons and Protons: Low Energy Metadata",
+    "band": ""
+  },
+  "MAGNETOSPHERIC_ELECTRONS_AND_PROTONS_LOW_ENERGY_DATA": {
+    "apid": "411",
+    "label": "Magnetospheric Electrons and Protons: Low Energy Data",
+    "band": ""
+  },
+  "MAGNETOSPHERIC_ELECTRONS_AND_PROTONS_MEDIUM_AND_HIGH_ENERGY_METADATA": {
+    "apid": "420",
+    "label": "Magnetospheric Electrons and Protons: Medium and High Energy Metadata",
+    "band": ""
+  },
+  "MAGNETOSPHERIC_ELECTRONS_AND_PROTONS_MEDIUM_AND_HIGH_ENERGY_DATA": {
+    "apid": "421",
+    "label": "Magnetospheric Electrons and Protons: Medium and High Energy Data",
+    "band": ""
+  },
+  "SOLAR_AND_GALACTIC_PROTONS_METADATA": {
+    "apid": "430",
+    "label": "Solar and Galactic Protons Metadata",
+    "band": ""
+  },
+  "SOLAR_AND_GALACTIC_PROTONS_DATA": {
+    "apid": "431",
+    "label": "Solar and Galactic Protons Data",
+    "band": ""
+  },
+  "SOLAR_IMAGERY_EUV_METADATA_BAND_Fe094": {
+    "apid": "480",
+    "label": "Solar Imagery: EUV Metadata",
+    "band": "Fe094"
+  },
+  "SOLAR_IMAGERY_EUV_METADATA_BAND_Fe132": {
+    "apid": "481",
+    "label": "Solar Imagery: EUV Metadata",
+    "band": "Fe132"
+  },
+  "SOLAR_IMAGERY_EUV_METADATA_BAND_Fe171": {
+    "apid": "482",
+    "label": "Solar Imagery: EUV Metadata",
+    "band": "Fe171"
+  },
+  "SOLAR_IMAGERY_EUV_METADATA_BAND_Fe195": {
+    "apid": "483",
+    "label": "Solar Imagery: EUV Metadata",
+    "band": "Fe195"
+  },
+  "SOLAR_IMAGERY_EUV_METADATA_BAND_Fe284": {
+    "apid": "484",
+    "label": "Solar Imagery: EUV Metadata",
+    "band": "Fe284"
+  },
+  "SOLAR_IMAGERY_EUV_METADATA_BAND_He304": {
+    "apid": "485",
+    "label": "Solar Imagery: EUV Metadata",
+    "band": "He304"
+  },
+  "SOLAR_IMAGERY_EUV_DATA_BAND_Fe094": {
+    "apid": "486",
+    "label": "Solar Imagery: EUV Data",
+    "band": "Fe094"
+  },
+  "SOLAR_IMAGERY_EUV_DATA_BAND_Fe132": {
+    "apid": "487",
+    "label": "Solar Imagery: EUV Data",
+    "band": "Fe132"
+  },
+  "SOLAR_IMAGERY_EUV_DATA_BAND_Fe171": {
+    "apid": "488",
+    "label": "Solar Imagery: EUV Data",
+    "band": "Fe171"
+  },
+  "SOLAR_IMAGERY_EUV_DATA_BAND_Fe195": {
+    "apid": "489",
+    "label": "Solar Imagery: EUV Data",
+    "band": "Fe195"
+  },
+  "SOLAR_IMAGERY_EUV_DATA_BAND_Fe284": {
+    "apid": "48A",
+    "label": "Solar Imagery: EUV Data",
+    "band": "Fe284"
+  },
+  "SOLAR_IMAGERY_EUV_DATA_BAND_He304": {
+    "apid": "48B",
+    "label": "Solar Imagery: EUV Data",
+    "band": "He304"
+  },
+  "MAG_METADATA": {
+    "apid": "500",
+    "label": "MAG Metadata",
+    "band": ""
+  },
+  "MAG_PRODUCT_DATA": {
+    "apid": "501",
+    "label": "MAG Product Data",
+    "band": ""
+  },
+  "GRB_INFO_BAND_File": {
+    "apid": "580",
+    "label": "GRB INFO",
+    "band": "File"
+  }
+}
