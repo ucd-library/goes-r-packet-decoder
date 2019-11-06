@@ -1591,7 +1591,7 @@
   },
   "GRB_INFO_BAND_File": {
     "apid": "580",
-    "label": "GRB INFO",
-    "band": "File"
+    "label": "GRB INFO File",
+    "band": ""
   }
 }
