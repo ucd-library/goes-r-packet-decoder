@@ -5,7 +5,9 @@ const fs = require('fs');
 // processor(fs.createReadStream('subgrabpackets.dat'));
 
 let processor = new Processor({
-  filter : /^91$/i,
+  live : false,
+  consoleLogStatus : true,
+  // filter : /^91$/i,
   imageBlock : {
     post : {
       url : 'http://localhost:3000',
