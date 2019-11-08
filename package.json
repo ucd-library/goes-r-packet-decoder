@@ -15,5 +15,6 @@
     "imagemagick-native": "^1.9.3",
     "request": "^2.88.0",
     "uuid": "^3.3.3"
-  }
+  },
+  "devDependencies": {}
 }

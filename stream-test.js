@@ -25,4 +25,5 @@ let processor = new Processor({
     }
   }
 })
-processor.pipe(fs.createReadStream('8am_g.dat'));
+// processor.pipe(fs.createReadStream('8am_g.dat'));
+processor.pipe();
