@@ -1,6 +1,6 @@
 {
   "name": "@ucd-lib/goes-r-packet-decoder",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,6 @@
     "crc": "^3.8.0",
     "csv-stringify": "^5.3.3",
     "fs-extra": "^8.1.0",
-    "imagemagick-native": "^1.9.3",
     "request": "^2.88.0",
     "uuid": "^3.3.3"
   },
