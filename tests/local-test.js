@@ -6,25 +6,19 @@ const fs = require('fs');
 // processor(fs.createReadStream('subgrabpackets.dat'));
 
 let processor = new Processor({
-  // live: true,
+  live: false,
   consoleLogStatus : true,
   // filter : /^91$/i,
   imageBlock : {
     post : {
-      url : 'http://localhost:3000',
-      headers : {
-        authorization : 'bearer f21das98asdjkl39'
-      }
+      url : 'http://localhost:3000'
     }
   },
   generic : {
     post : {
-      url : 'http://localhost:3000',
-      headers : {
-        authorization : 'bearer f21das98asdjkl39'
-      }
+      url : 'http://localhost:3000'
     }
   }
 })
-// processor.pipe(fs.createReadStream(path.join(__dirname, '8am_g.dat')));
-processor.pipe();
+processor.pipe(fs.createReadStream(path.join(__dirname, '8am_g.dat')));
+// processor.pipe();
