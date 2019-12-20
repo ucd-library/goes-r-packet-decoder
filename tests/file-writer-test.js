@@ -14,7 +14,7 @@ let genericDir = path.join(ROOT_DIR, 'generic');
   await fs.mkdirs(genericDir);
 
   let processor = new Processor({
-    // consoleLogStatus : true,
+    consoleLogStatus : true,
     imageBlock : {
       localFs : {
         path: imageDir
