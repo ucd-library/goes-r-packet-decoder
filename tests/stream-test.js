@@ -8,6 +8,7 @@ const fs = require('fs');
 let processor = new Processor({
   // live: true,
   consoleLogStatus : true,
+  // csvDebug : true,
   // filter : /^91$/i,
   imageBlock : {
     post : {

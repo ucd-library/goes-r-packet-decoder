@@ -1,5 +1,7 @@
 node_modules
 *.dat
+csv-debug
+goes-r-products
 images
 .DS_Store
 *.csv
