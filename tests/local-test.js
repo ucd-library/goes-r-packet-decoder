@@ -7,7 +7,7 @@ const fs = require('fs');
 
 let processor = new Processor({
   live: false,
-  consoleLogStatus : false,
+  consoleLogStatus : true,
   // filter : /^91$/i,
   imageBlock : {
     post : {
@@ -20,5 +20,5 @@ let processor = new Processor({
     }
   }
 })
-processor.pipe(fs.createReadStream(path.join(__dirname, '8am_g.dat')));
+processor.pipe(fs.createReadStream(path.join(__dirname, 'testsecdecorded.dat')));
 // processor.pipe();

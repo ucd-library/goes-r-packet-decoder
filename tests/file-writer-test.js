@@ -15,6 +15,7 @@ let genericDir = path.join(ROOT_DIR, 'generic');
 
   let processor = new Processor({
     consoleLogStatus : true,
+    live : false,
     imageBlock : {
       localFs : {
         path: imageDir
@@ -26,6 +27,7 @@ let genericDir = path.join(ROOT_DIR, 'generic');
       }
     }
   })
-  processor.pipe();
+
+  processor.pipe(fs.createReadStream(path.join(__dirname, 'testsecdecorded.dat')));
 })();
 
