@@ -7,7 +7,7 @@ const fs = require('fs');
 
 let processor = new Processor({
   live: false,
-  consoleLogStatus : true,
+  consoleLogStatus : false,
   // filter : /^91$/i,
   imageBlock : {
     post : {
