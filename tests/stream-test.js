@@ -7,25 +7,25 @@ const fs = require('fs');
 
 let processor = new Processor({
   live: true,
-  consoleLogStatus : false,
+  consoleLogStatus : true,
   // csvDebug : true,
   // filter : /^91$/i,
-  imageBlock : {
-    post : {
-      url : 'http://localhost:3000',
-      headers : {
-        authorization : 'bearer f21das98asdjkl39'
-      }
-    }
-  },
-  generic : {
-    post : {
-      url : 'http://localhost:3000',
-      headers : {
-        authorization : 'bearer f21das98asdjkl39'
-      }
-    }
-  }
+  // imageBlock : {
+  //   post : {
+  //     url : 'http://localhost:3000',
+  //     headers : {
+  //       authorization : 'bearer 123'
+  //     }
+  //   }
+  // },
+  // generic : {
+  //   post : {
+  //     url : 'http://localhost:3000',
+  //     headers : {
+  //       authorization : 'bearer 123'
+  //     }
+  //   }
+  // }
 })
 // processor.pipe(fs.createReadStream(path.join(__dirname, '8am_g.dat')));
 processor.pipe();
